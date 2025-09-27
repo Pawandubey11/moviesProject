@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #F84565;
+  --color-primary-dull: #D613854;
+}
+
+*{
+   font-family: "Anton", sans-serif; 
+   scrollbar-width: thin;
+    scrollbar-color: var(--color-primary) transparent;
+    scrollbar-color: #787777 transparent;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #000000;
+  color: #ffffff; 
+}

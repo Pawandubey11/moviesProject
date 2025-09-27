@@ -1,0 +1,19 @@
+frontend to run 
+
+cd "C:\Users\pawan\OneDrive\Desktop\moviesProject\moviesProject\Quick show"
+cd ".\Quick show\"
+npm install
+ls
+cd "C:/Users/pawan/OneDrive/Desktop/moviesProject/moviesProject/QuickShow"
+
+npm run dev
+
+
+backend
+
+C:\Users\pawan\OneDrive\Desktop\moviesProject\moviesProject\Backend>
+npm run server
+npx nodemon --exec "node -r dotenv/config server.js"
+
+
+ 
